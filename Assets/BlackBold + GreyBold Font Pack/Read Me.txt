@@ -1,0 +1,14 @@
+BlackBold + GreyBold Font Pack
+made by Babbage
+
+Description:
+2 fully-fledged fonts: BlackBold and GreyBold
+Made with 16x16 px sprites 
+Includes most characters needed for a typical font
+
+Note:
+Setting the font colour to white may fix some colouring issues
+You will need to drag the BLACKBOLD FONT FILE/GREYBOLD FONT FILE into the font part of your ui text, as well as the corresponding material file into the material section of the ui text.
+
+Contact me at mbattisson6@gmail.com or on the asset store if you have any problems.
+Enjoy!
